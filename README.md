@@ -1,4 +1,4 @@
-<img  alt="Coding" width="100%" height="450" src="https://getwallpapers.com/wallpaper/full/1/c/f/145265.jpg">
+
 <h1 align="center">Hi 👋, I'm Hendy Saint-Jusna</h1>
 <h3 align="center">Pasionnate and self-taught programmer based in Montreal</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://assets.sutori.com/user-uploads/image/95c3779d-f471-476a-976c-5a60a3909f6b/502120a116747ea7d5936de044d5441b.gif">
